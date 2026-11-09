@@ -1,0 +1,38 @@
+# Carpetas que Unity regenera solo
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Archivos de los editores de código
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Otros
+*.unitypackage
+*.apk
+crashlytics-buildid.txt
+sysinfo.txt
+Plataformas_construccion.txt
+hoja.png
+hoja2.png
+
+# Ojo: la carpeta docs/ (build WebGL para GitHub Pages) SÍ se sube
